@@ -49,7 +49,7 @@ namespace VanillaMemesExpanded
 
 		public static bool ValidateConvertee(Pawn convertee, Pawn leader, bool throwMessages)
 		{
-			return convertee != null && AbilityUtility.ValidateNoMentalState(convertee, throwMessages, null) && AbilityUtility.ValidateCanWalk(convertee, throwMessages, null) && AbilityUtility.ValidateNotSameIdeo(leader, convertee, throwMessages,null);
+			return convertee != null && AbilityUtility.ValidateNoMentalState(convertee, throwMessages) && AbilityUtility.ValidateCanWalk(convertee, throwMessages) && AbilityUtility.ValidateNotSameIdeo(leader, convertee, throwMessages);
 		}
 
 		public override void PostCleanup(LordJob_Ritual ritual)

@@ -8,7 +8,7 @@ namespace VanillaMemesExpanded
 	{
 		protected override ThoughtState ShouldHaveThought(Pawn p)
 		{
-			if (!p.Awake() || PawnUtility.IsBiologicallyOrArtificiallyBlind(p))
+			if (!p.Awake() || PawnUtility.IsBiologicallyOrArtificallyBlind(p))
 			{
 				return false;
 			}

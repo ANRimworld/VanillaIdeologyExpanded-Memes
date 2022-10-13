@@ -27,7 +27,7 @@ namespace VanillaMemesExpanded
                 }
                 else
                 {
-					GenExplosion.DoExplosion(target.Cell, target.Thing.Map, 3.9f, DamageDefOf.Bomb, this.parent.pawn);
+					GenExplosion.DoExplosion(target.Cell, target.Thing.Map, 3.9f, DamageDefOf.Bomb, this.parent.pawn, -1, -1f, null, null, null, null, null, 0f, 1, false, null, 0f, 1, 0f, false, null, null);
 					turret.Destroy();
 				}
 
@@ -36,7 +36,7 @@ namespace VanillaMemesExpanded
 			{
 
                 if (mechanoid.RaceProps.IsMechanoid) {
-					GenExplosion.DoExplosion(target.Cell, target.Thing.Map, 5.9f, DamageDefOf.Bomb, this.parent.pawn, -1, -1f);
+					GenExplosion.DoExplosion(target.Cell, target.Thing.Map, 5.9f, DamageDefOf.Bomb, this.parent.pawn, -1, -1f, null, null, null, null, null, 0f, 1, false, null, 0f, 1, 0f, false, null, null);
 					mechanoid.Kill(null);
 
                 }

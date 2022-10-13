@@ -59,15 +59,15 @@ namespace VanillaMemesExpanded
             {
                 return false;
             }
-            if (!AbilityUtility.ValidateNoMentalState(convertee, throwMessages,null))
+            if (!AbilityUtility.ValidateNoMentalState(convertee, throwMessages))
             {
                 return false;
             }
-            if (!AbilityUtility.ValidateCanWalk(convertee, throwMessages, null))
+            if (!AbilityUtility.ValidateCanWalk(convertee, throwMessages))
             {
                 return false;
             }
-            if (!AbilityUtility.ValidateNotSameIdeo(leader, convertee, throwMessages, null))
+            if (!AbilityUtility.ValidateNotSameIdeo(leader, convertee, throwMessages))
             {
                 return false;
             }
