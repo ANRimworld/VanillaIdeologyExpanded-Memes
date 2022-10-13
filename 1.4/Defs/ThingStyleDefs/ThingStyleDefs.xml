@@ -137,25 +137,8 @@
 		</graphicData>
 	</ThingStyleDef>
 
-	<ThingStyleDef ParentName="VME_Serketist_StandingLampBase">
-		<defName>VME_Serketist_StandingLamp_Red</defName>
-	</ThingStyleDef>
 
-	<ThingStyleDef ParentName="VME_Serketist_StandingLampBase">
-		<defName>VME_Serketist_StandingLamp_Blue</defName>
-	</ThingStyleDef>
 
-	<ThingStyleDef ParentName="VME_Serketist_StandingLampBase">
-		<defName>VME_Serketist_StandingLamp_Green</defName>
-	</ThingStyleDef>
-
-	<ThingStyleDef>
-		<defName>VME_Serketist_DarklampStanding</defName>
-		<graphicData>
-			<texPath>Things/Building/BuildingStyles/Serketist/VME_SerketistDarklampStanding</texPath>
-			<graphicClass>Graphic_Single</graphicClass>
-		</graphicData>
-	</ThingStyleDef>
 
 	<ThingStyleDef>
 		<defName>VME_Serketist_TorchLamp</defName>
@@ -401,17 +384,7 @@
 		</graphicData>
 	</ThingStyleDef>
 
-	<ThingStyleDef ParentName="VME_Corporate_StandingLamp">
-		<defName>VME_Corporate_StandingLamp_Red</defName>
-	</ThingStyleDef>
 
-	<ThingStyleDef ParentName="VME_Corporate_StandingLamp">
-		<defName>VME_Corporate_StandingLamp_Blue</defName>
-	</ThingStyleDef>
-
-	<ThingStyleDef ParentName="VME_Corporate_StandingLamp">
-		<defName>VME_Corporate_StandingLamp_Green</defName>
-	</ThingStyleDef>
 
 	<ThingStyleDef>
 		<defName>VME_Corporate_Apparel_CollarShirt</defName>
@@ -1096,18 +1069,6 @@
 		</graphicData>
 	</ThingStyleDef>
 
-	<ThingStyleDef ParentName="VME_Taoist_StandingLamp">
-		<defName>VME_Taoist_StandingLamp_Red</defName>
-	</ThingStyleDef>
-
-	<ThingStyleDef ParentName="VME_Taoist_StandingLamp">
-		<defName>VME_Taoist_StandingLamp_Blue</defName>
-	</ThingStyleDef>
-
-	<ThingStyleDef ParentName="VME_Taoist_StandingLamp">
-		<defName>VME_Taoist_StandingLamp_Green</defName>
-	</ThingStyleDef>
-
 	<ThingStyleDef ParentName="VME_RotateWeapons">
 		<defName>VME_Taoist_Apparel_PowerArmorHelmet</defName>
 		<wornGraphicPath>Things/Pawn/Humanlike/Apparelstyles/VME_HelmetMarineTaoist/VME_HelmetMarineTaoist</wornGraphicPath>
@@ -1311,25 +1272,7 @@
 		</graphicData>
 	</ThingStyleDef>
 
-	<ThingStyleDef ParentName="VME_Eldritch_StandingLampBase">
-		<defName>VME_Eldritch_StandingLamp_Red</defName>
-	</ThingStyleDef>
-
-	<ThingStyleDef ParentName="VME_Eldritch_StandingLampBase">
-		<defName>VME_Eldritch_StandingLamp_Blue</defName>
-	</ThingStyleDef>
-
-	<ThingStyleDef ParentName="VME_Eldritch_StandingLampBase">
-		<defName>VME_Eldritch_StandingLamp_Green</defName>
-	</ThingStyleDef>
 	
-	<ThingStyleDef>
-		<defName>VME_Eldritch_DarklampStanding</defName>
-		<graphicData>
-			<texPath>Things/Building/BuildingStyles/Eldritch/VME_EldritchDarkLampStanding</texPath>
-			<graphicClass>Graphic_Single</graphicClass>
-		</graphicData>
-	</ThingStyleDef>
 	
 	<ThingStyleDef>
 		<defName>VME_Eldritch_TorchLamp</defName>

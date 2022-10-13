@@ -26,7 +26,7 @@ namespace VanillaMemesExpanded
             {
 
                 var code = codes[i];
-                if (i > 0 && codes[i - 1].opcode == OpCodes.Ldloc_S && codes[i - 1].operand is LocalBuilder lb && lb.LocalIndex == 16)
+                if (i > 0 && codes[i - 1].opcode == OpCodes.Ldloc_S && codes[i - 1].operand is LocalBuilder lb && lb.LocalIndex == 17)
                 {
 
 

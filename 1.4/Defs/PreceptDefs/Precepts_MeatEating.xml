@@ -31,7 +31,7 @@
       <li>VME_Vegan</li>
   
     </associatedMemes>
-	<allowedForNPCFactions>false</allowedForNPCFactions>
+	<enabledForNPCFactions>false</enabledForNPCFactions>
     <disallowHuntingCamps>true</disallowHuntingCamps>
     <comps>
       <li Class="PreceptComp_SelfTookMemoryThought">

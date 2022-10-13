@@ -64,22 +64,6 @@
 				<styleDef>VME_Serketist_StandingLamp</styleDef>
 			</li>
 			<li>
-				<thingDef>StandingLamp_Red</thingDef>
-				<styleDef>VME_Serketist_StandingLamp_Red</styleDef>
-			</li>
-			<li>
-				<thingDef>StandingLamp_Green</thingDef>
-				<styleDef>VME_Serketist_StandingLamp_Green</styleDef>
-			</li>
-			<li>
-				<thingDef>StandingLamp_Blue</thingDef>
-				<styleDef>VME_Serketist_StandingLamp_Blue</styleDef>
-			</li>
-			<li>
-				<thingDef>Darklamp</thingDef>
-				<styleDef>VME_Serketist_DarklampStanding</styleDef>
-			</li>
-			<li>
 				<thingDef>TorchLamp</thingDef>
 				<styleDef>VME_Serketist_TorchLamp</styleDef>
 			</li>
@@ -194,18 +178,6 @@
 			<li>
 				<thingDef>StandingLamp</thingDef>
 				<styleDef>VME_Corporate_StandingLamp</styleDef>
-			</li>
-			<li>
-				<thingDef>StandingLamp_Red</thingDef>
-				<styleDef>VME_Corporate_StandingLamp_Red</styleDef>
-			</li>
-			<li>
-				<thingDef>StandingLamp_Green</thingDef>
-				<styleDef>VME_Corporate_StandingLamp_Green</styleDef>
-			</li>
-			<li>
-				<thingDef>StandingLamp_Blue</thingDef>
-				<styleDef>VME_Corporate_StandingLamp_Blue</styleDef>
 			</li>
 			<li>
 				<thingDef>Apparel_CollarShirt</thingDef>
@@ -481,18 +453,6 @@
 				<thingDef>StandingLamp</thingDef>
 				<styleDef>VME_Taoist_StandingLamp</styleDef>
 			</li>
-			<li>
-				<thingDef>StandingLamp_Red</thingDef>
-				<styleDef>VME_Taoist_StandingLamp_Red</styleDef>
-			</li>
-			<li>
-				<thingDef>StandingLamp_Green</thingDef>
-				<styleDef>VME_Taoist_StandingLamp_Green</styleDef>
-			</li>
-			<li>
-				<thingDef>StandingLamp_Blue</thingDef>
-				<styleDef>VME_Taoist_StandingLamp_Blue</styleDef>
-			</li>
 
 			<li>
 				<thingDef>Apparel_PowerArmorHelmet</thingDef>
@@ -632,23 +592,7 @@
 				<thingDef>StandingLamp</thingDef>
 				<styleDef>VME_Eldritch_StandingLamp</styleDef>
 			</li>
-			<li>
-				<thingDef>StandingLamp_Red</thingDef>
-				<styleDef>VME_Eldritch_StandingLamp_Red</styleDef>
-			</li>
-			<li>
-				<thingDef>StandingLamp_Green</thingDef>
-				<styleDef>VME_Eldritch_StandingLamp_Green</styleDef>
-			</li>
-			<li>
-				<thingDef>StandingLamp_Blue</thingDef>
-				<styleDef>VME_Eldritch_StandingLamp_Blue</styleDef>
-			</li>
 			
-			<li>
-				<thingDef>Darklamp</thingDef>
-				<styleDef>VME_Eldritch_DarklampStanding</styleDef>
-			</li>
 			<li>
 				<thingDef>TorchLamp</thingDef>
 				<styleDef>VME_Eldritch_TorchLamp</styleDef>

@@ -1120,6 +1120,7 @@
 		</statBases>
 		<passability>Impassable</passability>
 	</ThingDef>
+	<!-- This was was removed in 1.4 from base game. At least not in texture path and not in ideo ruins
 	<ThingDef ParentName="BuildingBase">
 		<defName>VME_AncientMechanoidShell</defName>
 		<label>ancient mechanoid shell</label>
@@ -1146,12 +1147,13 @@
 		<passability>PassThroughOnly</passability>
 		<pathCost>50</pathCost>
 	</ThingDef>
+	
 	<ThingDef ParentName="BuildingBase">
 		<defName>VME_AncientCentipedeShell</defName>
 		<label>ancient centipede shell</label>
 		<description>A shell from a smashed centipede. It has been deteriorating for many years and all the useful components have disintegrated.</description>
 		<graphicData>
-			<texPath>Things/Building/Ruins/DestroyedCentipedeShell/DestroyedCentipedeShell</texPath>
+			<texPath>Things/Building/Ruins/DestroyedCentipedeShell</texPath>
 			<graphicClass>Graphic_Multi</graphicClass>
 			<drawSize>(1,2)</drawSize>
 		</graphicData>
@@ -1171,6 +1173,7 @@
 		<passability>PassThroughOnly</passability>
 		<pathCost>50</pathCost>
 	</ThingDef>
+	-->
 	<ThingDef ParentName="BuildingBase">
 		<defName>VME_AncientMechDropBeacon</defName>
 		<label>ancient mech drop beacon</label>
